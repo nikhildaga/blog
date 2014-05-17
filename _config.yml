@@ -3,7 +3,7 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        date
+permalink:        {{ site.baseurl }}date
 
 # Setup
 title:            Nikhil Daga
