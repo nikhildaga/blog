@@ -6,7 +6,7 @@ pygments:         true
 title:            Nikhil Daga
 tagline:          '- Entrepreneur, Web Developer, Astrologer and Equity Analyst'
 description:      'Nikhil Daga -  Entrepreneur, Web Developer, Astrologer and Equity Analyst'
-url:          /blog
+baseurl: /blog
 author:
   name:           'Nikhil Daga'
   url:            https://google.com/+nikhildaga
