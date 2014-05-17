@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        date
+
+# Setup
+title:            Nikhil Daga
+tagline:          '- Web Developer, Astrologer and Equity Analyst'
+description:      'Nikhil Daga - Web Developer, Astrologer and Equity Analyst'
+url:              http://nikhilda.ga
+
+author:
+  name:           'Nikhil Daga'
+  url:            https://google.com/+nikhildaga
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
