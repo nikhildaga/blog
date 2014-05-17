@@ -2,7 +2,7 @@
 markdown:         redcarpet
 pygments:         true
 
-permalink:        blog/:date
+permalink:        blog/:categories/:year/:month/:day/:title.html
 
 # Setup
 title:            Nikhil Daga
