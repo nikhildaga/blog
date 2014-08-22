@@ -11,6 +11,7 @@ Our Vedic birth charts are maps of karma, showing a schedule of events that will
 The sages created Vedic astrology to help human beings understand the cycles of their lives based on karma they'd created in previous incarnations. The horoscope was designed as a kind of report card for the soul that summarized their level of accomplishment up to the moment they were born. It revealed the karmic status of different areas in their life such as family, romance, career, finances, and spiritual growth. It also showed when particular karmas from the past were most likely to manifest in the course of their life.
 
 And because Vedic astrology helped people see into blind spots in the past and future, it has been called Jyotir Vidya in Sanskrit, meaning "the science of light".
+
 ![Karma - The Science Behind Astrology]({{site.url}}/images/nikhil_daga_astrology.jpg)
 
 In the previous para, we learned that Vedic birth chart sketches a quick picture of our sanchita karma, the karma we've accumulated during our numerous past births. Subcharts called amshas reveal our prarabdha karma, the fraction of our total karma that will play out in our present lifetime.
