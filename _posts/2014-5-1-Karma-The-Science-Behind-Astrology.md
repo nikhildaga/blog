@@ -45,4 +45,4 @@ If someone who is running a cycle that is signaling physical danger happens to l
 
 Just as individuals generate karma, so do neighborhoods, organizations, and nations. Group karma can override or strongly modify individual karma, particularly during collective experiences like war. This shows that we are responsible not only for our own actions but for the attitudes and acts of the communities of which we are members.
 
-###If you are looking for any astrology help or would like to get your personal astrology report at just $10, contact me on nikhil.daga.bitsian@gmail.com ###
+###P.S.: If you are looking for any astrology help or would like to get your personal astrology report at just $10, contact me on nikhil.daga.bitsian@gmail.com ###
