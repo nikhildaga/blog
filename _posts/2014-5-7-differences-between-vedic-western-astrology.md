@@ -30,3 +30,5 @@ The Western chart is round in shape and includes neptune and pluto while the Ved
 
 ##Other Differences
 Being based on Vedic philosophy, Vedic astrology includes several other elements such as Karmic factors, Dashas, Muhurta, Prashna, etc. which are not present in Western Astrology.
+
+**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
