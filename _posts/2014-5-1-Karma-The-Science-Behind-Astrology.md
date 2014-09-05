@@ -44,3 +44,6 @@ There is also a completely different kind of karma that can impact our lives dra
 If someone who is running a cycle that is signaling physical danger happens to live in a peace-loving culture, for example, she may fall and break her leg  on the fateful day. Someone else, however, running the same cycle but living in a culture with a high tolerance for violence, may be the victim of a mugging or assault. It is absolutely wrong to claim that the victim of a crime karmically "deserved it."
 
 Just as individuals generate karma, so do neighborhoods, organizations, and nations. Group karma can override or strongly modify individual karma, particularly during collective experiences like war. This shows that we are responsible not only for our own actions but for the attitudes and acts of the communities of which we are members.
+
+**If you are looking for any astrology help, feel free to contact me on nikhil.daga.bitsian@gmail.com 
+Also, get your personal astrology report at just $10.** 
