@@ -33,3 +33,5 @@ There’s a lot more but I think its enough for today. We will learn more about 
 Till then, understand the placements of the houses and the main aspect of life they represent from the following figure
 
 ![Navgrahas- The Nine Planets ]({{ site.url }}/images/nikhil_daga_astrology4.jpg)
+
+**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
