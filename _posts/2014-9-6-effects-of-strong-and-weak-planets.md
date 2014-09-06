@@ -12,7 +12,7 @@ Now, let us study their effects.
 
 Strong **Sun** gives sound health, good fortune and will power while weak Sun results in greed, lack of willpower, envy and pride.
 
-### A planet is considered to be strong when it occupies its own exaltation, mooltrikon sign, own sign or friendly sign. Its considered weak when it is debilitated, in enemy sign or combust.   
+(**A planet is considered to be strong when it occupies its own exaltation, mooltrikon sign, own sign or friendly sign. Its considered weak when it is debilitated, in enemy sign or combust.**)
 
 Strong **Moon** gives easy availability of necessities in life, fully developed mind with clarity and satisfaction with oneâs lot while weak Moon results in improper care from the mother, retarded mental growth, disturbed marital relationship and peace of mind.
 
