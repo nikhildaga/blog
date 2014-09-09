@@ -17,7 +17,7 @@ category: astrology
 | God               | Agni            | Varuna          | Subramanya     | Vishnu          | Indra           | Indrani               | Brahma         | Nirriti           | Ganesha           |
 | Pratyadi Devataa  | Rudra           | Gowri           | Murugan        | Vishnu          | Brahma          | Indra                 | Yama           | Durga             | Chitragupta       |
 | Metal             | Gold            | Silver          | Copper         | Zinc            | Gold            | Silver                | Iron           | Lead              | Mercury           |
-| Gemstone          | Ruby            | Pearl/Moonstone | Red Coral      | Emerald         | Yellow Sapphire | Diamond               | Blue Sapphire  | Hessonite         | Cat's Eye         |
+| Gemstone          | Ruby            | Pearl           | Red Coral      | Emerald         | Yellow Sapphire | Diamond               | Blue Sapphire  | Hessonite         | Cat's Eye         |
 | Body Part         | Bone            | Blood           | Marrow         | Skin            | Brain           | Semen                 | Muscles        | Head              | Skin              |
 | Taste             | Pungent         | Salt            | Acid           | Mixed           | Sweet           | Sour                  | Astringent     | -                 | -                 |
 | Food              | Wheat           | Rice            | Pigeon pea     | Mung bean       | Chickpea        | kidney beans          | Sesame         | Urad (bean)       | Horse gram        |
